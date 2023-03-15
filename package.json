@@ -1,0 +1,23 @@
+{
+  "name": "regex-recursion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doaamelhem96/Regex-Recursion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doaamelhem96/Regex-Recursion/issues"
+  },
+  "homepage": "https://github.com/doaamelhem96/Regex-Recursion#readme",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
